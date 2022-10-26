@@ -1,0 +1,75 @@
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\App.g.cs
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\Semestar 5\Interakcija čovek računar\Vjezbe\Projekat 2\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MainWindow.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\App.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MainWindow.baml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\MeteringSimulator - T5\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\stefa\Desktop\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MainWindow.g.cs
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\App.g.cs
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MainWindow.baml
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+S:\3 godina\HCI\Stefan\MeteringSimulator - T4\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

@@ -1,0 +1,179 @@
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\MeteringSimulator.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe.config
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.baml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.baml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+S:\Interakcija covek racunar\HCI projekti PZ1 i PZ2\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.baml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\stefa\Desktop\Nikola Oratanin PR6-2018\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\MeteringSimulator.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe.config
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.g.cs
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.baml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\stefa\Desktop\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\System.Reactive.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\MeteringSimulator.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\MeteringSimulator.exe.config
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\InteractiveDataDisplay.WPF.pdb
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\bin\Debug\System.Reactive.xml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.g.cs
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\App.g.cs
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\App.baml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\Views\MeasurmentGraphView.baml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+S:\3 godina\HCI\Stefan\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="NetworkService.Views.MeasurmentGraphView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NetworkService.Views"
+             xmlns:viewModel="clr-namespace:NetworkService.ViewModel"
+             xmlns:data="clr-namespace:NetworkService.Model"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--title-->
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" Text="Measurment Graph" FontSize="20" FontWeight="ExtraBold" Margin="83.2,18,77.2,0" VerticalAlignment="Top"/>
+
+        <!--y values-->
+        <StackPanel Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right">
+            <TextBlock Text="" Margin="0 50 0 0"/>
+            <TextBlock Text="" Margin="0 25 0 0"/>
+            <TextBlock Text="" Margin="0 25 0 0"/>
+            <TextBlock Text="" Margin="0 25 0 0"/>
+            <TextBlock Text="" Margin="0 30 0 0"/>
+            <TextBlock Text="0" FontWeight="ExtraBold" Margin="0 25 0 0"/>
+        </StackPanel>
+
+        <!--from last-->
+        <!--<TextBlock  Text="(val ->)" Grid.Row="2" VerticalAlignment="Top"/>-->
+
+        <StackPanel Margin="0 0 0 0" Orientation="Horizontal" VerticalAlignment="Top" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
+            <TextBlock HorizontalAlignment="Left" Text="1st" FontWeight="ExtraBold"/>
+            <TextBlock Text="2nd" FontWeight="ExtraBold" Margin="50 0 0 0"/>
+            <TextBlock Text="3rd" FontWeight="ExtraBold" Margin="50 0 0 0"/>
+            <TextBlock Text="4th" FontWeight="ExtraBold" Margin="50 0 0 0"/>
+            <TextBlock Text="5th" FontWeight="ExtraBold" Margin="50 0 0 0"/>
+
+        </StackPanel>
+
+        <Canvas Grid.Column="1" Grid.Row="1" Width="350" Height="270" Background="Transparent" HorizontalAlignment="Left">
+
+            <Rectangle Width="15" Height="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FirstBindingPoint}" Fill="#ff0000" Stroke="Black" Canvas.Left="28" Canvas.Bottom="30"  />
+            <Rectangle Width="15" Height="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=SecondBindingPoint}" Fill="#ff0000" Stroke="Black" Canvas.Left="95" Canvas.Bottom="30" />
+            <Rectangle Width="15" Height="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=ThirdBindingPoint}" Fill="#ff0000" Stroke="Black" Canvas.Left="172" Canvas.Bottom="30"  />
+            <Rectangle Width="15" Height="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FourthBindingPoint}" Fill="#ff0000" Stroke="Black" Canvas.Left="240" Canvas.Bottom="30"  />
+            <Rectangle Width="15" Height="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FifthBindingPoint}" Fill="#ff0000" Stroke="Black" Canvas.Left="313" Canvas.Bottom="30"  />
+
+
+            <TextBlock Text="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FirstValue}"  FontSize="11" FontWeight="Bold" Canvas.Left="32"  Canvas.Top="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FirstBindingPoint}" />
+            <TextBlock Text="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=SecondValue}" FontSize="11" FontWeight="Bold" Canvas.Left="99" Canvas.Top="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=SecondBindingPoint}"/>
+            <TextBlock Text="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=ThirdValue}"  FontSize="11" FontWeight="Bold" Canvas.Left="176" Canvas.Top="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=ThirdBindingPoint}"/>
+            <TextBlock Text="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FourthValue}" FontSize="11" FontWeight="Bold" Canvas.Left="244" Canvas.Top="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FourthBindingPoint}"/>
+            <TextBlock Text="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FifthValue}"  FontSize="11" FontWeight="Bold" Canvas.Left="317" Canvas.Top="{Binding Source={x:Static viewModel:MeasurmentGraphViewModel.ElementHeights}, Path=FifthBindingPoint}"/>
+
+            <Line X1="15" Y1="80" X2="335" Y2="80" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+            <Line X1="15" Y1="120" X2="335" Y2="120" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+            <Line X1="15" Y1="160" X2="335" Y2="160" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+            <Line X1="15" Y1="200" X2="335" Y2="200" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+            <Line X1="15" Y1="240" X2="335" Y2="240" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+            <Line X1="15" Y1="80" X2="335" Y2="80" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+            <Line X1="15" Y1="40" X2="335" Y2="40" Stroke="Black" StrokeThickness="2" StrokeDashArray="2, 4"/>
+
+        </Canvas>
+        <ComboBox x:Name="EntityCmb" ItemsSource="{Binding Source={x:Static viewModel:NetworkEntitiesViewModel.GeneratoriLista}}" DisplayMemberPath="Naziv" HorizontalAlignment="Left" VerticalAlignment="Top" Width="79" Grid.Column="1" Margin="10.2,66,0,0" Height="15"/>
+        <Label Content="Generatori :" HorizontalAlignment="Left" FontWeight="ExtraBold" VerticalAlignment="Top" Grid.Column="1" Margin="10.2,40,0,0"/>
+    </Grid>
+</UserControl>
